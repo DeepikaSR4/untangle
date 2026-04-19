@@ -40,7 +40,7 @@ Create Firebase Cloud Function:
 
 POST /api/reframe
 
-### Steps:
+Steps:
 
 1. Validate input
 

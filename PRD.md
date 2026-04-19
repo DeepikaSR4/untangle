@@ -264,7 +264,9 @@ No chat UI. Clean structured layout.
 
     widgets/
 
----
+
+
+
 
 Build this in modular, clean, production-ready code.
 

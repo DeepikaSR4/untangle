@@ -110,7 +110,7 @@ Tone: {{tone}}
 
 
 
-ERROR HANDLING
+**ERROR HANDLING**
 
 Return structured error:
 

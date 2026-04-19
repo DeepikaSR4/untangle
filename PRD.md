@@ -198,7 +198,7 @@ String error
 
 
 
-RESULT DISPLAY
+**RESULT DISPLAY**
 
 Render sections:
 

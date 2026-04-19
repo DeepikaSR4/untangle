@@ -172,7 +172,7 @@ Screen Layout:
 
 
 
-STATE
+**STATE**
 
 String thought
 

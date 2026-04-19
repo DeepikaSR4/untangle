@@ -214,7 +214,7 @@ No chat UI. Clean structured layout.
 
 
 
-SECURITY
+**SECURITY**
 
 - Sanitize input
 

@@ -132,7 +132,7 @@ Retry AI call once if JSON parsing fails.
 
 ---
 
-## RATE LIMITING
+RATE LIMITING
 
 Use Firestore:
 

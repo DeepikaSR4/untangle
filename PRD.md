@@ -196,9 +196,9 @@ UX
 
 - Preserve input on regenerate
 
----
 
-## RESULT DISPLAY
+
+RESULT DISPLAY
 
 Render sections:
 

@@ -34,9 +34,7 @@ System returns structured JSON:
 
 }
 
----
-
-## BACKEND IMPLEMENTATION
+BACKEND IMPLEMENTATION
 
 Create Firebase Cloud Function:
 

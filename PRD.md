@@ -240,7 +240,7 @@ No chat UI. Clean structured layout.
 
 
 
-FILE STRUCTURE
+**FILE STRUCTURE**
 
 /functions
 

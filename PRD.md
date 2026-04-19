@@ -224,9 +224,9 @@ No chat UI. Clean structured layout.
 
 - Do not allow prompt override
 
----
 
-## ACCEPTANCE CRITERIA
+
+ACCEPTANCE CRITERIA
 
 - Always returns valid JSON or structured error
 

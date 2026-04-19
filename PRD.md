@@ -6,15 +6,11 @@ This is a mental clarity tool that takes a user's thought and returns a structur
 
 Tech stack:
 
-- Frontend: Flutter (mobile-first)
-
-- Backend: Firebase Cloud Functions (Node.js, TypeScript)
-
-- Database: Firestore (for rate limiting only in MVP)
-
-- AI: Groq API
-
-- Validation: Zod
+- - Frontend: Flutter (mobile-first)
+- - Backend: Firebase Cloud Functions (Node.js, TypeScript)
+- - Database: Firestore (for rate limiting only in MVP)
+- - AI: Groq API
+- - Validation: Zod
 
 ## CORE FUNCTIONALITY
 

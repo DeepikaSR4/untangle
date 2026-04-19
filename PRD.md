@@ -170,7 +170,7 @@ Screen Layout:
 
 - Regenerate button
 
----
+
 
 ### STATE
 

@@ -1,6 +1,6 @@
 # PRD
 
-Build a production-ready MVP for an AI app called "Claritix AI".
+Build a production-ready MVP for an AI app called Untangle.
 
 This is a mental clarity tool that takes a user's thought and returns a structured response with emotional validation, logical reframing, and actionable steps.
 

@@ -38,7 +38,7 @@ System returns structured JSON:
 
 Create Firebase Cloud Function:
 
-POST /api/reframe
+**POST /api/reframe**
 
 Steps:
 

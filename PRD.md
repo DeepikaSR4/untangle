@@ -158,7 +158,7 @@ Limit: 5 requests/day
 
 Build simple UI:
 
-### Screen Layout:
+Screen Layout:
 
 - Text input (multiline)
 

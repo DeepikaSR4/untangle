@@ -16,9 +16,7 @@ Tech stack:
 
 - Validation: Zod
 
----
-
-## CORE FUNCTIONALITY
+CORE FUNCTIONALITY
 
 User inputs:
 

@@ -277,3 +277,5 @@ No chat UI. Clean structured layout.
 
 
 UI Inspiration
+
+![Screenshot_2026-04-20_004937](PRD/Screenshot_2026-04-20_004937.png)

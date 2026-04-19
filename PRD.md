@@ -226,7 +226,7 @@ No chat UI. Clean structured layout.
 
 
 
-ACCEPTANCE CRITERIA
+**ACCEPTANCE CRITERIA**
 
 - Always returns valid JSON or structured error
 
@@ -238,9 +238,9 @@ ACCEPTANCE CRITERIA
 
 - Rate limiting works
 
----
 
-## FILE STRUCTURE
+
+FILE STRUCTURE
 
 /functions
 

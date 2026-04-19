@@ -56,7 +56,7 @@ Steps:
 
 
 
-ZOD SCHEMA
+**ZOD SCHEMA**
 
 Use this exact schema:
 

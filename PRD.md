@@ -54,9 +54,9 @@ Steps:
 
 6. Return structured response
 
----
 
-## ZOD SCHEMA
+
+ZOD SCHEMA
 
 Use this exact schema:
 

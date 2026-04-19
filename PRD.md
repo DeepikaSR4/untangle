@@ -76,7 +76,7 @@ const ClaritixSchema = z.object({
 
 
 
-## GROQ AI PROMPT
+GROQ AI PROMPT
 
 System prompt:
 

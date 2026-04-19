@@ -74,7 +74,7 @@ const ClaritixSchema = z.object({
 
 });
 
----
+
 
 ## GROQ AI PROMPT
 
